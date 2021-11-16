@@ -1,3 +1,3 @@
 # Metaverse Bot
 
-![Metaverse Bot logo]()
+![Metaverse Bot logo](MetaverseBot_logo_byCharlie.PNG)
