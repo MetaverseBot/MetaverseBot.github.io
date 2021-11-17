@@ -13,7 +13,7 @@ with respect and kindness”</p>
 <p>“ Teams can and should 
 help and cooperate with 
 each other even as they 
-compete”</p><br/>
+compete”</p>
 <p>Dr. Woodie Flowers, FIRST Distinguished Adviso</p>
 <p>Core Values is not just 
 something you do. 
