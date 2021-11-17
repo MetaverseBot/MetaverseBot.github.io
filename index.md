@@ -2,7 +2,7 @@
 [Team Info](TeamInfo.md)
 <hr/>
 
-[<center><img src="MetaverseBot_logo_byCharlie.PNG" width="250" height="250"></center> target="blank"](https://www.youtube.com/channel/UCn7dX4BMW2610ua43H-YuhQ)
+[<center><img src="MetaverseBot_logo_byCharlie.PNG" width="250" height="250"></center>](https://www.youtube.com/channel/UCn7dX4BMW2610ua43H-YuhQ target="_blank")
 <p>We are team Metaverse Bot</p>
 <p>We formed a team out of 7 4th graders, 1 5th grader</p>
 <p>There are 6 people who go to solana ranch, 2 people who go to solana pacific</p>
