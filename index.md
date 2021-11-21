@@ -2,7 +2,7 @@
 [Team Info](TeamInfo.md)
 -- [Photos](photos.md)
 <hr/>
-<p>Our Logo</p>
+<center><p>Our Logo:</p></center>
 [<center><img src="MetaverseBot_logo_byCharlie.PNG" width="250" height="250"></center>](https://www.youtube.com/channel/UCn7dX4BMW2610ua43H-YuhQ)
 <center>
 <p>We are team Metaverse Bot</p>
