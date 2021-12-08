@@ -1,6 +1,7 @@
 <center><h1>Metaverse Bot</h1></center>
 [Team Info](TeamInfo.md)
--- [Photos](photos.md)
+|[Innovation Project]()
+|[Photos](photos.md)
 <hr/>
 <center><p>Our Logo:</p></center>
 [<center><img src="MetaverseBot_logo_byCharlie.PNG" width="250" height="250"></center>](https://www.youtube.com/channel/UCn7dX4BMW2610ua43H-YuhQ)
