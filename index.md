@@ -4,8 +4,9 @@
 |[Photos](photos.md)
 <hr/>
 <center><p>Our Logo:</p></center>
-[<center><img src="MetaverseBot_logo_byCharlie.PNG" target="_blank" width="250" height="250"></center>](https://www.youtube.com/channel/UCn7dX4BMW2610ua43H-YuhQ)
-<center>
+<a href="https://www.youtube.com/channel/UCn7dX4BMW2610ua43H-YuhQ">
+<center><img src="MetaverseBot_logo_byCharlie.PNG" target="_blank" width="250" height="250"></center>
+</a>
 <p>We are team Metaverse Bot</p>
 <p>We formed a team out of seven 4th graders and one 5th grader</p>
 <p>There are 6 people who go to solana ranch and 2 people who go to solana pacific</p>
