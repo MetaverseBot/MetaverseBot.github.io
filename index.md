@@ -1,6 +1,7 @@
 <center><h1>Metaverse Bot</h1></center>
 [Team Info](TeamInfo.md)
 |[Innovation Project](innovation.md)
+|[Core Values](coreValue.md)
 |[Photos](photos.md)
 <hr/>
 <center><p>Our Logo:</p></center>
