@@ -2,6 +2,7 @@
 [Team Info](TeamInfo.md)
 |[Innovation Project](innovation.md)
 |[Core Values](coreValue.md)
+|[Robot Game](robotGame.md)
 |[Photos](photos.md)
 <hr/>
 <center><p>Our Logo:</p></center>
