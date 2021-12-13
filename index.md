@@ -5,7 +5,7 @@
 |[Robot Game](robotGame.md)
 |[Photos](photos.md)
 <hr/>
-<center><p>Our Logo:</p></center>
+<center><p>Our Logo(Click to go to the Metaverse Bot Youtube Channel):</p></center>
 <center><a href="https://www.youtube.com/channel/UCn7dX4BMW2610ua43H-YuhQ" target="_blank">
 <img src="MetaverseBot_logo_byCharlie.PNG" width="250" height="250" />
 </a></center>
