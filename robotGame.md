@@ -6,7 +6,7 @@
 <iframe width="300" height="315" src="https://www.youtube.com/embed/I8EdBDNdrLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <p>This is us trying our code in the Moc Competition</p>
-<img src="IMG_6333.JPG" 
+<img src="IMG_6333.JPG" width="250" height="250" />
 
 <center><p>In this video, the Judges will announce we got 2nd place in FLL 2021 Cargo Connect Southern California FLL Competition (Robot Performance)</p>
 <iframe width="300" height="315" src="https://www.youtube.com/embed/AHB4YLbLdAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
