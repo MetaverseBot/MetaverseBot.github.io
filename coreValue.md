@@ -2,7 +2,7 @@
 [Homepage](index.html)
 <hr/>
 <center><p>Our team doing a Core Value activity</p>
-<img src="IMG_6332.JPG" width="250" height="250" /></center>
+[](IMG_6332.JPG)
 
 <center><p>Us holding our Core Value poster in the 1st competition</p>
 <img src="IMG_6334.JPG" width="250" height="250" /></center>
